@@ -1,0 +1,7 @@
+body.closed-tabs .terms_terms {
+  margin-top: 0px;
+}
+
+body.closed-tabs .tabs_nav {
+  display: none;
+}
