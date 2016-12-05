@@ -1,37 +1,19 @@
 {
   "name": "hyper-autohide-tabs",
   "version": "0.0.1",
-  "description": "Make hyper autohide tab bar when there is only one",
+  "description": "Autohides the tab bar in hyperterm when there is only one tab",
   "main": "index.js",
   "scripts": {
-    "test": "xo"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "files": [
-    "index.js",
-    "styles.css"
-  ],
-  "xo": {
-    "esnext": true,
-    "space": true,
-    "semicolon": false,
-    "globals": [
-      "document"
-    ]
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brychanrobot/hyper-autohide-tabs.git"
   },
-  "repository": "brychanrobot/hyper-autohide-tabs",
-  "keywords": [
-    "hyper",
-    "hyperterm",
-    "theme",
-    "ui",
-  ],
-  "author": "Bryant Chandler",
+  "author": "Bryant Chandler (http://github.com/brychanrobot)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/brychanrobot/hyper-autohide-tabs/issues"
   },
-  "homepage": "https://github.com/brychanrobot/hyper-autohide-tabs#readme",
-  "devDependencies": {
-    "xo": "^0.17.1"
-  }
+  "homepage": "https://github.com/brychanrobot/hyper-autohide-tabs#readme"
 }
