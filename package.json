@@ -1,6 +1,6 @@
 {
   "name": "hyper-autohide-tabs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Autohides the tab bar in hyperterm when there is only one tab",
   "main": "index.js",
   "scripts": {
